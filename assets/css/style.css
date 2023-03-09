@@ -49,7 +49,7 @@ body, html {
         color: #7878AB; }
     .box-coming-canvas .box-sub .btn {
       padding: 7px 20px;
-      background: linear-gradient(270deg, #ff5b4d 0%, #ff8a80 100%);
+      background: linear-gradient(270deg, #ff5b4d 0%, #ff8c80 100%);
       box-shadow: 5px 5px 10px rgba(170, 170, 204, 0.5), -5px -5px 10px #FFFFFF;
       border-radius: 32px;
       color: #fff;
