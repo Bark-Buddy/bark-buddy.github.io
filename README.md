@@ -1,1 +1,1 @@
-# bark-buddy.github.io
+# Welcome to bark-buddy.github.io
