@@ -1,0 +1,68 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	background-image: url('/img/welpe-2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+}
+
+.section-left {
+	display: flex;
+	flex-direction: column;
+	margin-right: 20px;
+}
+
+.logo img {
+	max-width: 100%;
+}
+
+.content {
+	text-align: center;
+	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.social-media {
+	margin-top: 20px;
+}
+
+.social-media i {
+	font-size: 40px;
+	margin: 0 10px;
+	color: #000;
+}
+
+
+
+.section-right {
+	flex: 1;
+}
+
+.image img {
+	max-width: 100%;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+	margin: 0;
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 20px;
+}
