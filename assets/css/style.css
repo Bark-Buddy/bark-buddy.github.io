@@ -40,9 +40,6 @@ body, html {
     width: 100%; }
   .box-coming-canvas .logo {
     margin-bottom: 2rem; }
-    .box-coming-canvas .logo img {
-      max-width: 500px;
-    max-height: 90; }
   .box-coming-canvas .title {
     margin-bottom: 3rem;
     color: #011C25;
